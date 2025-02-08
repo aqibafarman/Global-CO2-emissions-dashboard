@@ -31,4 +31,7 @@ The dataset used for this project is visualizing_global_co2_data.csv, which prov
 - Emerging emitters such as Indonesia, Iran, Saudi Arabia, and South Korea are gaining prominence in CO2 emission.
 - Pakistan, one of the least CO2-emitting countries, remains 5th most climate-affected countries.
 
+![Global CO2 Emissions Dashboard](https://raw.githubusercontent.com/aqibafarman/Global-CO2-emissions-dashboard/main/[dashboard_preview.png](https://github.com/aqibafarman/Global-CO2-emissions-dashboard/blob/main/Screenshot%20(1348).png))
+
+
 
