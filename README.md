@@ -20,7 +20,7 @@ The dataset used for this project is visualizing_global_co2_data.csv, which prov
 4. Emerging Emission Players: Identifies new countries like Indonesia, Iran, Saudi Arabia, and South Korea that have emerged as significant emitters in recent years.
 
 ## Key Insights:
-- The USA** remains a leading emitter despite its relatively stagnant population.
+- The USA remains a leading emitter despite its relatively stagnant population.
 - China's CO2 emissions are directly proportional to its large population.
 - Emerging emitters such as Indonesia, Iran, Saudi Arabia, and South Korea are gaining prominence in CO2 emission.
 - Pakistan, one of the least CO2-emitting countries, remains 5th most climate-affected countries.
