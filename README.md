@@ -7,21 +7,17 @@ This repository contains a Power BI dashboard that visualizes 250 years of globa
 
 ## Tools & Technologies
 - Power BI: For creating interactive dashboards.
-- Power Query: For data extraction and cleaning.
+- Power Query: or data extraction, transformation, and cleaning.
 
 
 ## Data Source
 The dataset used for this project is visualizing_global_co2_data.csv, which provides information about global CO2 emissions over the past 250 years.
 
-
-1️⃣ Connected to the visualizing_global_co2_data.csv and familiarized myself with the dataset.
-
-Analyzed which countries are the largest contributors to CO2 emissions.
-2️⃣ Applied a data source filter to exclude NULL ISO Codes for accurate country-level analysis.
-
-3️⃣ Converted all fields with "CO2" in their names to Number (Whole) data type and changed them to be continuous measures.
-
-4️⃣ Created a new integer parameter "Top N" with a default value of 10 to dynamically filter the top CO2-emitting countries
+## Data Preparation Steps (Power Query)
+1. Connected to the visualizing_global_co2_data.csv and familiarized myself with the dataset.Analyzed which countries are the largest contributors to CO2 emissions.
+2. Applied a data source filter to exclude NULL ISO Codes for accurate country-level analysis.
+3. Converted all fields with "CO2" in their names to Number (Whole) data type and changed them to be continuous measures.
+4. Created a new integer parameter "Top N" with a default value of 10 to dynamically filter the top CO2-emitting countries
 
 ## Key Features of the Dashboard:
 1. Top N Emission Countries: Analysis of the top contributors to CO2 emissions across different time periods.
